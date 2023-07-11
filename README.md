@@ -21,5 +21,3 @@ This Python project examines the Lahman baseball database and provides various v
 4. Run the `open_dashboard()` function to launch the Streamlit-based web application.
 5. Use the sidebar to select different visualizations and explore the baseball data.
 
-### Important Links
-Download link for the data that is used. http://seanlahman.com/download-baseball-database/
